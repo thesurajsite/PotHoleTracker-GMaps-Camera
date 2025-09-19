@@ -1,6 +1,6 @@
-# Trail Capture
+# PotHole Tracker: Google Maps, Camera
 
-Trail Capture is an Android application that integrates **Google Maps API** and **Camera functionality** to help users **search places, get directions, and capture photos along their journey**. The app visually differentiates between the **path already traveled (Green)** and the **path yet to be traveled (Blue)**.
+PotHole Tracker is an Android application that integrates **Google Maps API** and **Camera functionality** to help users **search places, get directions, and capture photos along their journey**. The app visually differentiates between the **path already traveled (Green)** and the **path yet to be traveled (Blue)**.
 
 ## 📌 Features
 
