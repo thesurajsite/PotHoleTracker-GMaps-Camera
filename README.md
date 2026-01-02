@@ -1,5 +1,5 @@
 # PotHole Tracker: Google Maps, Camera
-## 🎥 Demo Video: https://www.linkedin.com/posts/thesurajsite_androiddevelopment-googlemapsapi-potholetracker-activity-7354080849325182976-FLB_?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD83ZU8BkjlW4U0Y7NAOgrPsPEpM7_xOF3o
+## 🎥 Demo Video: https://bit.ly/49s9xsC
 
 PotHole Tracker is an Android application that integrates **Google Maps API** and **Camera functionality** to help users **search places, get directions, and capture photos along their journey**. The app visually differentiates between the **path already traveled (Green)** and the **path yet to be traveled (Blue)**.
 
